@@ -1,7 +1,6 @@
 # SG90 SERVO MOUNT v1.0 
 
-<img src="assets/1.0_SERVO_MOUNT.JPG" width="400"> 
-<img src="assets/1.1_SERVO_MOUNT_TOP.JPG" width="400"> 
+<img src="assets/1.0_SERVO_MOUNT.JPG" width="400"> <img src="assets/1.1_SERVO_MOUNT_TOP.JPG" width="400"> 
 
 Each SERVO MOUNT is designed to easily mount the standard SG90 servo without having to make challenging cutouts to suit the servo body. This product was orignially designed for beetle weight combat robotics but is suitable as a sustitute mount for any application using these motors. 
 
